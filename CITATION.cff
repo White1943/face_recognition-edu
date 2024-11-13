@@ -2,7 +2,6 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "face_recognition"
 version: "1.2.2"
-doi: "10.5281/zenodo.1234567" # If a DOI exists; if not, omit this line.
 authors:
   - family-names: Geitgey
     given-names: Adam
