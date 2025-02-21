@@ -59,6 +59,7 @@ import face_recognition
 image = face_recognition.load_image_file("{}")
 """
 
+
 test_end_to_end = """
 encoding = face_recognition.face_encodings(image)[0]
 """
